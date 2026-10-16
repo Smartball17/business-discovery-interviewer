@@ -4,6 +4,8 @@
 
 A reusable Manus skill for consultants conducting client discovery. It asks one question at a time, adapts to the industry and interviewee, investigates actual workflows, and separates statements from reviewed evidence.
 
+[View the project on Manus Academy](https://academy.manus.im/projects/01a14616-5789-7288-8826-b7bf15c440f4).
+
 ## Install
 
 Download [`business-discovery-interviewer.skill`](dist/business-discovery-interviewer.skill) and add it to your Manus skills. The package includes the method, references, and templates.
